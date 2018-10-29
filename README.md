@@ -2,6 +2,10 @@ This is awesome GITHUB training
 ===============================
 
 
-# Chapter 1
+# Chapter One
 
 How it all started.
+
+# Chapter Two
+
+How it all ended.
